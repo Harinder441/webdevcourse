@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Interactive TODO List Application">
+    <title>TODO List</title>
+</head>
+<body>
+    <!-- Semantic header -->
+    <header>
+        <h1>My TODO List</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#tasks">Tasks</a></li>
+                <li><a href="#categories">Categories</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <!-- Task input form with various input types -->
+        <section>
+            <h2>Add New Task</h2>
+            <form id="taskForm">
+                <div>
+                    <label for="taskTitle">Task Title:</label>
+                    <input type="text" id="taskTitle" name="taskTitle" required>
+                </div>
+
+                <div>
+                    <label for="taskDescription">Description:</label>
+                    <textarea id="taskDescription" name="taskDescription" rows="3"></textarea>
+                </div>
+
+                <div>
+                    <label for="dueDate">Due Date:</label>
+                    <input type="date" id="dueDate" name="dueDate">
+                </div>
+
+                <div>
+                    <label for="priority">Priority:</label>
+                    <select id="priority" name="priority">
+                        <option value="low">Low</option>
+                        <option value="medium">Medium</option>
+                        <option value="high">High</option>
+                    </select>
+                </div>
+
+                <button type="submit">Add Task</button>
+            </form>
+        </section>
+
+        <!-- Task list container -->
+        <section>
+            <h2>My Tasks</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Status</th>
+                        <th>Title</th>
+                        <th>Due Date</th>
+                        <th>Priority</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><input type="checkbox"></td>
+                        <td>Complete project documentation</td>
+                        <td>2024-03-20</td>
+                        <td>High</td>
+                        <td>
+                            <button>Edit</button>
+                            <button>Delete</button>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 TODO List Application</p>
+    </footer>
+</body>
+</html> 
