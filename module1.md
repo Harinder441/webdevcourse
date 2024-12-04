@@ -7,33 +7,15 @@ Duration: 6 classes (1-2 hours each)
 #### Class 0: Git & Development Environment Setup
 - Introduction to Version Control
 - Understanding Git fundamentals
-  - Repositories
-  - Commits
-  - Branches
-  - Merging
-  
 - Basic Git commands
-  - git init
-  - git add
-  - git commit
-  - git push/pull
-  - git clone
 - GitHub basics
-  - Creating repositories
-  - Making commits
-  - Pull requests
-  - Collaboration basics
 - Setting up development environment
-  - Git installation
-  - GitHub account creation
-  - VS Code installation
-  - Browser selection and installation
-  - Git integration with VS Code
 - **Project Component:** 
   - Initialize Git repository for TODO list project
   - Make first commit
   - Create GitHub repository
   - Push initial project structure
+- **Class Notes:** [View Class Notes](Module1Classes/class0_notes.md)
 
 #### Class 1: Introduction to Web Development
 - Course overview and setup
