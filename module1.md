@@ -24,7 +24,7 @@ Duration: 6 classes (1-2 hours each)
 - Client-server architecture
 - Web browsers and how they work
 - **Project Component:** Project overview and wireframe creation for TODO list
-  - [View Project Wireframe](Module1Components/class1_wireframe.html)
+  - [View Project Wireframe](https://harinder441.github.io/webdevcourse/Module1Components/class1_wireframe.html)
 - **Class Notes:** [View Class Notes](Module1Classes/class1_notes.md)
 
 
@@ -41,7 +41,7 @@ Duration: 6 classes (1-2 hours each)
   - Header section
   - Task input form
   - Task list container
-  - [View Project](Module1Components/class2_structure.html)
+  - [View Project](https://harinder441.github.io/webdevcourse/Module1Components/class2_structure.html)
 - **Class Notes:** [View Class Notes](Module1Classes/class2_notes.md)
 
 
@@ -56,7 +56,7 @@ Duration: 6 classes (1-2 hours each)
   - Styling header
   - Form styling
   - Basic list styling
-  - [View Project](Module1Components/class3_basic_styling.html)
+  - [View Project](https://harinder441.github.io/webdevcourse/Module1Components/class3_basic_styling.html)
 - **Class Notes:** [View Class Notes](Module1Classes/class3_notes.md)
 
 #### Class 4: CSS Layout
@@ -69,7 +69,7 @@ Duration: 6 classes (1-2 hours each)
   - Responsive container
   - Flex layout for tasks
   - Mobile-friendly design
-  - [View Project](Module1Components/class4_layout.html)
+  - [View Project](https://harinder441.github.io/webdevcourse/Module1Components/class4_layout.html)
 - **Class Notes:** [View Class Notes](Module1Classes/class4_notes.md)
 
 
@@ -87,7 +87,7 @@ Duration: 6 classes (1-2 hours each)
   - Converting layout to Bootstrap
   - Using Bootstrap components
   - Custom Bootstrap theming
-  - [View Project](Module1Components/class5_bootstrap.html)
+  - [View Project](https://harinder441.github.io/webdevcourse/Module1Components/class5_bootstrap.html)
 - **Class Notes:** [View Class Notes](Module1Classes/class5_notes.md)
 
 
@@ -102,7 +102,7 @@ Duration: 6 classes (1-2 hours each)
   - Code cleanup
   - Deployment preparation
   - Preview of JavaScript integration
-  - [View Project](Module1Components/class6_final.html)
+  - [View Project](https://harinder441.github.io/webdevcourse/Module1Components/class6_final.html)
 - **Class Notes:** [View Class Notes](Module1Classes/class6_notes.md)
 
 
